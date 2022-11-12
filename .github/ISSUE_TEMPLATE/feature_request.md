@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## 목적
-
+board
 ## 작업 상세 내용
 - [ ] todo1
 
